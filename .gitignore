@@ -1,1 +1,19 @@
+<<<<<<< HEAD
 data/Dataset_NQ_1min_2022_2025.csv
+=======
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+>>>>>>> main
