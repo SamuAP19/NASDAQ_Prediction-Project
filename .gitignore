@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+data/Dataset_NQ_1min_2022_2025.csv
+=======
 # Python
 __pycache__/
 *.py[cod]
@@ -13,3 +16,4 @@ env/
 .idea/
 .DS_Store
 Thumbs.db
+>>>>>>> main
