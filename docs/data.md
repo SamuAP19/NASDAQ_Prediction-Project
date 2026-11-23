@@ -28,10 +28,11 @@
 ## Important features 
 
 y_ny : 0 or 1 --> 1 means NAsdaq went up and 0 means it didn't 
-ret_ny : the return of nasdaq that day :
+ret_ny : the return of nasdaq that day 
 
 
 
 
 ## Transformations : 
 Removal of the weekends (Nasdaq is Null during weekends since it is closed)
+
